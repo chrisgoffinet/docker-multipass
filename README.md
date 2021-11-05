@@ -65,7 +65,7 @@ DISK=20G
 
 ## Can this replace Docker Desktop?
 
-Yes, on macOS you can install just the `docker` using `brew`, so no need to go and install `Docker Desktop`.
+Yes, on macOS you can install `docker` using `brew`, so no need to go and install `Docker Desktop`.
 
 ```bash
 $ brew install docker
