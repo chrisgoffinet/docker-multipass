@@ -1,6 +1,6 @@
 # Docker with multipass on macOS
 
-# Prerequisites
+## Prerequisites
 
 ```bash
 $ brew install multipass
